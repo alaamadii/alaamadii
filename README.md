@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<!--
--ةغ 
-ة
+##  about me 
 -👩‍💻 Software Engineering Student at firat university
 - 🌱 I’m currently learning full stack development
 - 💬 Ask me about what ever you wonder about
@@ -19,8 +17,5 @@
 - 🎨 CSS  
 - ☕ Java  
 - 📜 JavaScript  
-- ⚛️ React  
-- 🐘 PHP  
 
--ةغ نلى
--->
+
