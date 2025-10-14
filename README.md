@@ -2,7 +2,7 @@
 
 ##  about me 
 -👩‍💻 Software Engineering Student at firat university
-- 🌱 I’m currently learning full stack development and AI 
+- 🌱 full stack development and AI 
 - 💬 Ask me about what ever you wonder about
 - 📫 contact with me (https://www.linkedin.com/in/alaa-madi-858014366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - ⚡ Fun fact:I reply to messages really fast! 😉
