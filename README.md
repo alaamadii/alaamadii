@@ -8,7 +8,7 @@ I am Alaa
 - 📫 contact with me (https://www.linkedin.com/in/alaa-madi-858014366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - ⚡ Fun fact:I reply to messages really fast! 😉
 -👩‍💻 Software Engineering Student  
--🌐 Interested in AI 
+-🌐 Interested in data
 -🤖 Passionate about Artificial Intelligence  
 -🔗 Exploring the integration between both  
 
