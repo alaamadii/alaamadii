@@ -18,5 +18,3 @@ I am Alaa
 - 🎨 CSS  
 - ☕ Java  
 - 📜 JavaScript  
-
-The ortasyon assignment vedio : https://youtu.be/TLzSNaTi2aQ
