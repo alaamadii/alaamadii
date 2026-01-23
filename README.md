@@ -5,7 +5,7 @@ I am Alaa
 -👩‍💻 Software Engineering Student at firat university
 - 🌱 Data and AI 
 - 💬 Ask me about what ever you wonder about
-- 📫 contact with me (https://www.linkedin.com/in/alaa-madi-858014366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📫 contact with me (https://www.linkedin.com/in/alaa-madi-858014366)
 - ⚡ Fun fact:I reply to messages really fast! 😉
 -👩‍💻 Software Engineering Student  
 -🌐 Interested in data
@@ -13,7 +13,7 @@ I am Alaa
 -🔗 Exploring the integration between both  
 
 ## 🛠️ Languages & Tools  
-- 🐍 Python  
+- 🐍 Python  (ML(scikit-learn , pandas, numpy, streamlit))
 - ⚛️ HTML  
 - 🎨 CSS  
 - ☕ Java  
