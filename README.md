@@ -3,7 +3,7 @@ I am Alaa
 
 ##  about me 
 -👩‍💻 Software Engineering Student at firat university
-- 🌱 Data and AI 
+- 🌱 Data and AI, Machine learning 
 - 💬 Ask me about what ever you wonder about
 - 📫 contact with me (https://www.linkedin.com/in/alaa-madi-858014366)
 - ⚡ Fun fact:I reply to messages really fast! 😉
