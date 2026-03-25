@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Alaa
+My name is Alaa ,and u can call me Ela
 
 ##  about me 
 -👩‍💻 Software Engineering Student at firat university
