@@ -8,10 +8,10 @@
 
 ## 🧠 About Me
 
-I'm a **Software Engineering student at Fırat University**, passionate about building smart systems with ML/AI and bringing them to life through web development. My focus is on making AI practical — not just in research, but in real products people can use and leveraging it as a problem-solving tool for our daily challenges.
+I'm a **Software Engineering student at Fırat University**, passionate about building smart systems with ML/AI and bringing them to life through web development. My focus is on making AI practical not just in research, but in real products people can use and leveraging it as a problem-solving tool for our daily challenges.
 
 - 🎓 Studying Software Engineering @ Fırat University
-- 🤖 Working with **Machine Learning** — from data preprocessing to model deployment
+- 🤖 Working with **Machine Learning**  from data preprocessing to model deployment
 - 🌐 Building web interfaces that make AI accessible
 - 🔗 Exploring the **bridge between ML backends and web frontends**
 - 💬 Always open to ideas, collaborations, and discussions
