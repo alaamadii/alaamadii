@@ -99,17 +99,7 @@ I'm a **Software Engineering student at Fırat University**, passionate about bu
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Alaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaamadii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alaamadii&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
