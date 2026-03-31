@@ -46,7 +46,7 @@ I'm a **Software Engineering student at Fırat University**, passionate about bu
 ### 🩺 [Diabetes Prediction App](https://github.com/alaamadii/Diabetes-prediction-app)
 > End-to-end ML web application that predicts the likelihood of diabetes based on patient diagnostic data — built with Streamlit and scikit-learn.
 
-`Python` `scikit-learn` `Streamlit` `Machine Learning`
+`Python` `scikit-learn` `Streamlit` `Machine Learning` 
 
 ---
 
