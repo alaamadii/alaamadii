@@ -1,6 +1,6 @@
 
-# Hey, I'm Alaa 👋
-### Software Engineering Student · ML & AI · Web Development
+# Hey, I'm Alaa 
+### Software Engineering Student · ML & AI · Full stack Development
 
 *Building at the intersection of intelligent systems and the web*
 
