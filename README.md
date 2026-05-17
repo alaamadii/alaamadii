@@ -1,5 +1,5 @@
 
-# Hey, I'm Alaa   [Personal Website](https://alaamadie.netlify.app/)
+# Hey, I'm Alaa, to my website -->   [Personal Website](https://alaamadie.netlify.app/)
 ### Software Engineering Student · ML & AI · Full stack Development
 
 *Building at the intersection of intelligent systems and the web*
