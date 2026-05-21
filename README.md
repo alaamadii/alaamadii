@@ -5,7 +5,6 @@
 *Building at the intersection of intelligent systems and the web*
 
 ---
-
 ##  About Me
 
 I'm a **Software Engineering student at Fırat University**, passionate about building smart systems with ML/AI and bringing them to life through web development. My focus is on making AI practical not just in research, but in real products people can use and leveraging it as a problem-solving tool for our daily challenges.
