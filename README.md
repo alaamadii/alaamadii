@@ -142,7 +142,7 @@ I'm always open to working on **ML projects, web applications, research ideas, o
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-4f46e5?style=for-the-badge)](https://alaamadie.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-4f46e5?style=for-the-badge)](https://alaamadii.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Reach_Me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-madi-858014366)
 
 </div>
