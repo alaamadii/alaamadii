@@ -18,9 +18,9 @@
 ## 🧑‍💻 About Me
 
 I'm a Software Engineering student at Fırat University obsessed with one question:
-how do we make AI actually useful for people — not just in papers, but in products.
+how do we make AI actually useful for people not just in papers, but in products.
 
-That's what drives me to combine ML with web development. I want to build the full picture —
+That's what drives me to combine ML with web development. I want to build the full picture 
 from training a model to putting it in front of a user in something clean and intuitive.
 
 Right now I'm focused on sharpening my ML skills, shipping real projects, and looking for
