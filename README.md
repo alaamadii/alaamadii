@@ -27,7 +27,7 @@ Right now I'm focused on sharpening my ML skills, shipping real projects, and lo
 opportunities to collaborate with people who care about building things that matter.
 
 - 🎓 Studying Software Engineering @ **Fırat University**
-- 🤖 Working with **Machine Learning** — from data preprocessing to model deployment
+- 🤖 Working with **Machine Learning**  from data preprocessing to model deployment
 - 🌐 Building **web interfaces** that make AI accessible to everyone
 - 🔗 Exploring the bridge between **ML backends and web frontends**
 - 💡 Always looking for meaningful problems to solve with technology
@@ -74,14 +74,14 @@ opportunities to collaborate with people who care about building things that mat
 ## 🚀 Featured Projects
 
 ### 🎓 [Scholarships Portal](https://schoolarships-new.vercel.app/)
-> A modern web platform that helps students discover and explore scholarship opportunities — intuitive browsing experience with a clean, accessible UI.
+> A modern web platform that helps students discover and explore scholarship opportunities intuitive browsing experience with a clean, accessible UI.
 
 `HTML` `CSS` `JavaScript` `Vercel`
 
 ---
 
 ### 🩺 [Diabetes Prediction App](https://github.com/alaamadii/Diabetes-prediction-app)
-> End-to-end ML web application that predicts the likelihood of diabetes based on patient diagnostic data — built with Streamlit and scikit-learn.
+> End-to-end ML web application that predicts the likelihood of diabetes based on patient diagnostic data built with Streamlit and scikit-learn.
 
 `Python` `scikit-learn` `Streamlit` `Machine Learning`
 
@@ -94,7 +94,7 @@ opportunities to collaborate with people who care about building things that mat
 
 ---
 
-### 🏠 [House Price Prediction — Advanced](https://github.com/alaamadii/house-price-prediction-advanced)
+### 🏠 [House Price Prediction - Advanced](https://github.com/alaamadii/house-price-prediction-advanced)
 > Benchmarks multiple regression models against each other to find the best-performing approach for real estate price prediction.
 
 `Python` `scikit-learn` `Regression Models`
@@ -102,14 +102,14 @@ opportunities to collaborate with people who care about building things that mat
 ---
 
 ### 🍽️ [Restaurant Management System](https://github.com/alaamadii/Restaurant-Management-System-OOP-new-version)
-> Full-stack OOP application with a web interface for managing menus and orders — Flask backend with a clean HTML/CSS/JS frontend.
+> Full-stack OOP application with a web interface for managing menus and orders Flask backend with a clean HTML/CSS/JS frontend.
 
 `Python` `Flask` `HTML` `CSS` `JavaScript` `OOP`
 
 ---
 
 ### 📚 [Libraree](https://github.com/alaamadii/libraree)
-> A modern community platform connecting readers and writers — users can explore books across categories and publish their own writings and research.
+> A modern community platform connecting readers and writers users can explore books across categories and publish their own writings and research.
 
 `HTML` `CSS` `JavaScript`
 
@@ -122,7 +122,7 @@ opportunities to collaborate with people who care about building things that mat
 
 ---
 
-### 🗺️ [City Map — Directed Weighted Graph](https://github.com/alaamadii/map-of-city-using-directed-weighted-graph)
+### 🗺️ [City Map Directed Weighted Graph](https://github.com/alaamadii/map-of-city-using-directed-weighted-graph)
 > Models a simplified city map using a directed weighted graph. Vertices represent locations and edges represent one-way roads with weighted travel times.
 
 `Python` `Graph Algorithms` `Data Structures`
@@ -130,7 +130,7 @@ opportunities to collaborate with people who care about building things that mat
 ---
 
 ### ✈️ [AL-Jet — Luxury Jet Service Website](https://github.com/alaamadii/AL-jet)
-> A multi-page web project showcasing a luxury private jet service — polished design with a strong focus on UI/UX presentation.
+> A multi-page web project showcasing a luxury private jet service polished design with a strong focus on UI/UX presentation.
 
 `HTML` `CSS` `JavaScript`
 
