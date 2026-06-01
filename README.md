@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-4f46e5?style=for-the-badge)](https://alaamadii.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-4f46e5?style=for-the-badge)](https://alaamadie.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-madi-858014366/)
 
 </div>
@@ -64,4 +64,83 @@ opportunities to collaborate with people who care about building things that mat
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 [Scholarships Portal](https://schoolarships-new.vercel.app/)
+> A modern web platform that helps students discover and explore scholarship opportunities — intuitive browsing experience with a clean, accessible UI.
+
+`HTML` `CSS` `JavaScript` `Vercel`
+
+---
+
+### 🩺 [Diabetes Prediction App](https://github.com/alaamadii/Diabetes-prediction-app)
+> End-to-end ML web application that predicts the likelihood of diabetes based on patient diagnostic data — built with Streamlit and scikit-learn.
+
+`Python` `scikit-learn` `Streamlit` `Machine Learning`
+
+---
+
+### ⚡ [Household Power Consumption Prediction](https://github.com/alaamadii/Household-Power-Consumption-Prediction)
+> Predicts household electricity usage using Linear Regression on a real-world dataset. Covers a full data cleaning, preparation, and analysis pipeline.
+
+`Python` `Pandas` `NumPy` `Linear Regression`
+
+---
+
+### 🏠 [House Price Prediction — Advanced](https://github.com/alaamadii/house-price-prediction-advanced)
+> Benchmarks multiple regression models against each other to find the best-performing approach for real estate price prediction.
+
+`Python` `scikit-learn` `Regression Models`
+
+---
+
+### 🍽️ [Restaurant Management System](https://github.com/alaamadii/Restaurant-Management-System-OOP-new-version)
+> Full-stack OOP application with a web interface for managing menus and orders — Flask backend with a clean HTML/CSS/JS frontend.
+
+`Python` `Flask` `HTML` `CSS` `JavaScript` `OOP`
+
+---
+
+### 📚 [Libraree](https://github.com/alaamadii/libraree)
+> A modern community platform connecting readers and writers — users can explore books across categories and publish their own writings and research.
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### ✅ [Task Manager App](https://github.com/alaamadii/Task-Manager-App-)
+> Interactive task manager with full CRUD operations, due date tracking, status filtering, and a clean Streamlit interface.
+
+`Python` `Streamlit`
+
+---
+
+### 🗺️ [City Map — Directed Weighted Graph](https://github.com/alaamadii/map-of-city-using-directed-weighted-graph)
+> Models a simplified city map using a directed weighted graph. Vertices represent locations and edges represent one-way roads with weighted travel times.
+
+`Python` `Graph Algorithms` `Data Structures`
+
+---
+
+### ✈️ [AL-Jet — Luxury Jet Service Website](https://github.com/alaamadii/AL-jet)
+> A multi-page web project showcasing a luxury private jet service — polished design with a strong focus on UI/UX presentation.
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm always open to working on **ML projects, web applications, research ideas, or anything that solves a real problem**. Whether you want to collaborate, share feedback, or just talk tech  feel free to reach out.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-4f46e5?style=for-the-badge)](https://alaamadie.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/Reach_Me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-madi-858014366)
+
+</div>
