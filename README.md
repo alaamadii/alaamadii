@@ -8,7 +8,7 @@ Building practical AI systems that transform **data → models → real-world pr
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4f46e5?style=for-the-badge)](https://alaamadie.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4f46e5?style=for-the-badge)](https://alaamadii.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-madi-858014366/)
 [![GitHub](https://img.shields.io/badge/GitHub-@alaamadii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alaamadii)
 
