@@ -165,7 +165,7 @@ Whether you're building an AI startup, conducting research, or looking for an en
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4f46e5?style=for-the-badge)](https://alaamadie.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4f46e5?style=for-the-badge)](https://alaamadii.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-madi-858014366/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaamadi005@gmail.com)
 
