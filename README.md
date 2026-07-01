@@ -20,7 +20,7 @@ Building practical AI systems that transform **data → models → real-world pr
 
 I'm a **Software Engineering student at Fırat University** with a strong interest in **Machine Learning, Computer Vision, and AI-powered applications**.
 
-I enjoy building complete AI systems—from collecting and preparing data, training and evaluating models, to deploying them through clean and user-friendly web applications.
+I enjoy building complete AI systems from collecting and preparing data, training and evaluating models, to deploying them through clean and user-friendly web applications.
 
 My goal is to become an **AI / Machine Learning Engineer** by continuously building projects that solve real-world problems and create meaningful impact.
 
