@@ -85,7 +85,7 @@ My goal is to become an **AI / Machine Learning Engineer** by continuously build
 | 🤖 AI Interview Assistant | 🚧 In Progress |
 | ✍️ Air Writer | 🚧 Improving |
 | 🍉 Fruit Ninja AI | 🚧 Production Upgrade |
-| 👤 Face Attendance System | 📅 Planned |
+| 👤 Face Attendance System | ✅ Completed |
 | 🩺 Medical Image Classification | 📅 Planned |
 | 📄 Resume Screening AI | 📅 Planned |
 | 🎯 Recommendation System | 📅 Planned |
