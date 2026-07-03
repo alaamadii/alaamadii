@@ -143,20 +143,6 @@ Currently learning and building:
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaamadii&show_icons=true&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=alaamadii&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alaamadii&layout=compact&hide_border=true)
-
-</div>
-
----
-
 # 🤝 Let's Connect
 
 I'm always interested in collaborating on **Machine Learning, Computer Vision, AI, and Full-Stack projects** that solve real-world problems.
