@@ -142,19 +142,6 @@ A gesture-controlled Fruit Ninja game built with Computer Vision and hand tracki
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=alaamadii&show_icons=true&hide_border=true&rank_icon=github)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=alaamadii&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alaamadii&layout=compact&hide_border=true)
-
-</div>
-
----
 
 # Certifications
 
