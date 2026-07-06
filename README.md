@@ -37,7 +37,6 @@ My goal is to become an **AI / Machine Learning Engineer** by continuously build
 - 🤖 Machine Learning & Computer Vision Enthusiast
 - 📂 40+ GitHub Repositories
 - 🧠 Building End-to-End AI Applications
-- 🌍 Based in Turkey
 - 💬 Always open to collaboration and learning
 - 🚀 Looking for AI / ML Internship opportunities
 
