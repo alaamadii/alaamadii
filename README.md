@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alaa 👋
+# Hi, I'm Alaa 
 
 ### AI & Machine Learning Engineer in Progress
 
