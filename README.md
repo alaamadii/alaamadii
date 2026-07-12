@@ -197,7 +197,6 @@ Interactive projects including hand tracking, air writing, and gesture-controlle
 
 </div>
 
----
 
 ## 🔭 Currently Exploring
 
