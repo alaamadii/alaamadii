@@ -206,3 +206,24 @@ Deep Learning          ▰▰▰▰▰▰▰▱▱▱
 Computer Vision        ▰▰▰▰▰▰▰▰▱▱
 AI Product Building    ▰▰▰▰▰▰▰▰▱▱
 Full Stack Systems     ▰▰▰▰▰▰▰▱▱▱
+--- 
+
+<div align="center">
+
+# 🚀 Have an Idea?
+
+Let's turn it into a product.
+
+I'm always interested in collaborating on projects involving
+
+**AI · Computer Vision · Machine Learning · Full Stack Development**
+
+Whether you're building a startup, researching an idea, or looking for a technical partner, feel free to reach out.
+
+<br>
+
+<a href="https://www.linkedin.com/in/alaa-madi-858014366/">
+<img src="https://img.shields.io/badge/Collaborate%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
