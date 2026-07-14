@@ -183,21 +183,6 @@ Interactive projects including hand tracking, air writing, and gesture-controlle
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alaamadii&show_icons=true&hide_border=true&title_color=7868E6&icon_color=7868E6&text_color=9f9f9f&bg_color=00000000&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaamadii&layout=compact&hide_border=true&title_color=7868E6&text_color=9f9f9f&bg_color=00000000&langs_count=8" />
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaamadii&theme=transparent" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=alaamadii&bg_color=00000000&color=7868E6&line=7868E6&point=9F91FF&area=true&hide_border=true" />
-
-</div>
-
-
 ## 🔭 Currently Exploring
 
 ```text
