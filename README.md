@@ -183,6 +183,7 @@ Interactive projects including hand tracking, air writing, and gesture-controlle
 
 ---
 
+
 ## 🔭 Currently Exploring
 
 ```text
@@ -191,6 +192,7 @@ Computer Vision        ▰▰▰▰▰▰▰▰▱▱
 AI Product Building    ▰▰▰▰▰▰▰▰▱▱
 Full Stack Systems     ▰▰▰▰▰▰▰▱▱▱
 ```
+
 
 ---
 
