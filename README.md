@@ -1,31 +1,22 @@
-<!-- =========================
-     ALAA MADI — GITHUB PROFILE
-     github.com/alaamadii
-========================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=12,14,18,20&section=header&text=Hi,%20I'm%20Alaa%20👋&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Software%20Engineering%20•%20AI%20•%20Full%20Stack&descAlignY=58&descSize=17"/>
+# Hi, I'm Alaa 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=7868E6&center=true&vCenter=true&width=750&lines=Building+software+that+sees%2C+learns%2C+and+solves.;Turning+machine+learning+models+into+real+products.;Computer+Vision+%C3%97+Machine+Learning+%C3%97+Full+Stack." alt="Typing introduction"/>
-</a>
+### Software Engineering Student | Machine Learning & Computer Vision
 
-<br/>
-
-I build practical, intelligent applications by combining  
-**Machine Learning, Computer Vision, and Full Stack Engineering.**
+Building ML and computer-vision systems from data and experimentation  
+to tested, usable applications.
 
 <br/>
 
 <a href="https://alaamadii.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/alaa-madi-858014366/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:alaamadi005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -34,63 +25,89 @@ I build practical, intelligent applications by combining
 
 ## 👩🏻‍💻 About Me
 
-> I do not build projects just to fill a portfolio.  
-> I build ideas that could become useful products.
-
 - 🎓 Software Engineering student at **Fırat University**
-- 🤖 Focused on **Machine Learning, Computer Vision, and AI-powered applications**
-- 💻 Building complete products from **data and models to interfaces and deployment**
-- 🌍 Based between **Turkey and Egypt**
-- 📍 Originally from **Palestine**
-- 🚀 Interested in technology that solves meaningful, real-world problems
+- 🤖 Focused on **Machine Learning, Computer Vision & AI Engineering**
+- 🧩 Building projects beyond notebooks — from **data preparation and model evaluation to applications, testing and CI**
+- 🔎 Interested in **ML/AI internships, junior opportunities and research collaborations**
 
 ---
 
-## 🧠 What I Build
+## 🚀 Featured Machine Learning Projects
+
+### 🚢 [Freight Rate ML](https://github.com/alaamadii/freight-rate-ml-assessment)
+
+Machine-learning assessment focused on freight-rate prediction with time-aware evaluation.
+
+`Python` `scikit-learn` `XGBoost` `Pandas`
+
+**Engineering:** Walk-forward validation · confidence analysis · reproducible scoring · automated testing
+
+---
+
+### 🩺 [Diabetes Classification](https://github.com/alaamadii/diabetes-second-edition)
+
+End-to-end classification pipeline using XGBoost with class-imbalance handling and explainability.
+
+`Python` `XGBoost` `SHAP` `Streamlit`
+
+**Engineering:** Reproducible preprocessing · schema validation · model evaluation · unit tests · CI
+
+---
+
+### 🏠 [House Price Prediction](https://github.com/alaamadii/house-price-prediction-advanced)
+
+Regression pipeline for comparing and tuning models to estimate residential property prices.
+
+`Python` `scikit-learn` `Pandas` `Streamlit`
+
+**Engineering:** Pipelines · preprocessing · GridSearchCV · model persistence · automated testing
+
+---
+
+## 👁️ Computer Vision Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Intelligent Vision
+### 👤 Face Attendance
 
-Applications that detect, recognize, track, and understand visual information.
+Real-time face-recognition attendance system with structured enrollment and attendance tracking.
 
-`Face Recognition` `Image Classification`  
-`Pose Estimation` `Object Detection`
+**Tech**
 
-</td>
-<td width="50%" valign="top">
+`Python` `OpenCV`  
+`Face Recognition`
 
-### Machine Learning Products
-
-Models transformed into practical tools with clear interfaces and real use cases.
-
-`Prediction` `Classification`  
-`Data Analysis` `Model Evaluation`
+[**View Repository →**](https://github.com/alaamadii/face-attendance-system)
 
 </td>
-</tr>
+<td width="33%" valign="top">
 
-<tr>
-<td width="50%" valign="top">
+### ✍️ Air Writer
 
-### AI-Powered Platforms
+Real-time hand tracking and gesture recognition for drawing in the air using a webcam.
 
-Full applications where artificial intelligence supports users, workflows, or decisions.
+**Tech**
 
-`AI Assistants` `Automation`  
-`Recommendation Systems`
+`MediaPipe` `OpenCV`  
+`Gesture Recognition`
+
+[**View Repository →**](https://github.com/alaamadii/air-writer)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Full Stack Applications
+### 🍉 Fruit Ninja CV
 
-Modern, responsive products built from frontend to backend and deployment.
+Gesture-controlled game using real-time hand tracking and computer vision.
 
-`React` `TypeScript` `APIs`  
-`Databases` `Cloud Deployment`
+**Tech**
+
+`MediaPipe` `OpenCV`  
+`Computer Vision`
+
+[**View Repository →**](https://github.com/alaamadii/ninja-fruite-computervision)
 
 </td>
 </tr>
@@ -98,120 +115,53 @@ Modern, responsive products built from frontend to backend and deployment.
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Engineering Toolkit
+
+**Machine Learning & Data**  
+`Python` · `Pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `SHAP`
+
+**Computer Vision**  
+`OpenCV` · `MediaPipe` · `Image Processing` · `Real-time Video`
+
+**Application Development**  
+`Flask` · `Streamlit` · `React` · `TypeScript` · `REST APIs`
+
+**Engineering**  
+`Git` · `GitHub` · `pytest` · `GitHub Actions` · `Docker` · `SQL`
+
+---
+
+## ⚙️ Engineering & Team Practices
 
 <div align="center">
 
-### Languages
+`Reproducible ML Evaluation` &nbsp;•&nbsp; `Automated Testing` &nbsp;•&nbsp; `CI/CD`
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,sql&theme=dark" />
+`Agile / Scrum` &nbsp;•&nbsp; `Scrum Master Experience` &nbsp;•&nbsp; `Code Review`
 
-### AI, Data & Computer Vision
+`Git Collaboration` &nbsp;•&nbsp; `Team Coordination` &nbsp;•&nbsp; `Model → Application Integration`
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+I'm interested in **Machine Learning, Computer Vision and AI Engineering**  
+internships / junior opportunities, as well as **research and technical collaborations**.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,flask&theme=dark" />
-
-### Databases, Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,git,github,docker,vscode,vercel,netlify&theme=dark" />
-
-</div>
-
----
-
-## 🚀 Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👁️ Face Attendance System
-
-Computer vision system that recognizes registered faces and records attendance automatically.
-
-**Focus:** Face recognition, real-time video, databases, authentication
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 House Price Prediction
-
-Machine learning application that compares regression models and estimates property values.
-
-**Focus:** Regression, model evaluation, data preprocessing, Streamlit
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎤 AI Interview Platform
-
-An intelligent interview experience designed to support candidate evaluation and feedback.
-
-**Focus:** AI workflows, full stack development, user experience
-
-</td>
-<td width="50%" valign="top">
-
-### ✋ Computer Vision Experiences
-
-Interactive projects including hand tracking, air writing, and gesture-controlled games.
-
-**Focus:** OpenCV, landmarks, real-time interaction, creative computing
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[Explore My Repositories](https://github.com/alaamadii?tab=repositories)
-
-</div>
-
----
-
-
-## 🔭 Currently Exploring
-
-```text
-Deep Learning          ▰▰▰▰▰▰▰▱▱▱
-Computer Vision        ▰▰▰▰▰▰▰▰▱▱
-AI Product Building    ▰▰▰▰▰▰▰▰▱▱
-Full Stack Systems     ▰▰▰▰▰▰▰▱▱▱
-```
-
-
----
-
-<div align="center">
-
-# 🚀 Have an Idea?
-
-Let's turn it into a product.
-
-I'm always interested in collaborating on projects involving
-
-**AI · Computer Vision · Machine Learning · Full Stack Development**
-
-Whether you're building a startup, researching an idea, or looking for a technical partner, feel free to reach out.
-
-<br>
-
 <a href="https://www.linkedin.com/in/alaa-madi-858014366/">
-<img src="https://img.shields.io/badge/Collaborate%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://alaamadii.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:alaamadi005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
