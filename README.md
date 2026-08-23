@@ -34,33 +34,58 @@ to tested, usable applications.
 
 ## 🚀 Featured Machine Learning Projects
 
-### 🚢 [Freight Rate ML](https://github.com/alaamadii/freight-rate-ml-assessment)
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🚢 Freight Rate ML
 
 Machine-learning assessment focused on freight-rate prediction with time-aware evaluation.
 
-`Python` `scikit-learn` `XGBoost` `Pandas`
+**Tech**  
+`Python` `scikit-learn`  
+`XGBoost` `Pandas`
 
-**Engineering:** Walk-forward validation · confidence analysis · reproducible scoring · automated testing
+**Engineering**  
+Walk-forward validation · confidence analysis · reproducible scoring · automated testing
 
----
+[**View Repository →**](https://github.com/alaamadii/freight-rate-ml-assessment)
 
-### 🩺 [Diabetes Classification](https://github.com/alaamadii/diabetes-second-edition)
+</td>
+<td width="33%" valign="top">
+
+### 🩺 Diabetes Classification
 
 End-to-end classification pipeline using XGBoost with class-imbalance handling and explainability.
 
-`Python` `XGBoost` `SHAP` `Streamlit`
+**Tech**  
+`Python` `XGBoost`  
+`SHAP` `Streamlit`
 
-**Engineering:** Reproducible preprocessing · schema validation · model evaluation · unit tests · CI
+**Engineering**  
+Reproducible preprocessing · schema validation · model evaluation · unit tests · CI
 
----
+[**View Repository →**](https://github.com/alaamadii/diabetes-second-edition)
 
-### 🏠 [House Price Prediction](https://github.com/alaamadii/house-price-prediction-advanced)
+</td>
+<td width="33%" valign="top">
+
+### 🏠 House Price Prediction
 
 Regression pipeline for comparing and tuning models to estimate residential property prices.
 
-`Python` `scikit-learn` `Pandas` `Streamlit`
+**Tech**  
+`Python` `scikit-learn`  
+`Pandas` `Streamlit`
 
-**Engineering:** Pipelines · preprocessing · GridSearchCV · model persistence · automated testing
+**Engineering**  
+Pipelines · preprocessing · GridSearchCV · model persistence · automated testing
+
+[**View Repository →**](https://github.com/alaamadii/house-price-prediction-advanced)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -74,8 +99,7 @@ Regression pipeline for comparing and tuning models to estimate residential prop
 
 Real-time face-recognition attendance system with structured enrollment and attendance tracking.
 
-**Tech**
-
+**Tech**  
 `Python` `OpenCV`  
 `Face Recognition`
 
@@ -88,8 +112,7 @@ Real-time face-recognition attendance system with structured enrollment and atte
 
 Real-time hand tracking and gesture recognition for drawing in the air using a webcam.
 
-**Tech**
-
+**Tech**  
 `MediaPipe` `OpenCV`  
 `Gesture Recognition`
 
@@ -102,8 +125,7 @@ Real-time hand tracking and gesture recognition for drawing in the air using a w
 
 Gesture-controlled game using real-time hand tracking and computer vision.
 
-**Tech**
-
+**Tech**  
 `MediaPipe` `OpenCV`  
 `Computer Vision`
 
@@ -117,31 +139,111 @@ Gesture-controlled game using real-time hand tracking and computer vision.
 
 ## 🛠 Engineering Toolkit
 
-**Machine Learning & Data**  
-`Python` · `Pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `SHAP`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Computer Vision**  
-`OpenCV` · `MediaPipe` · `Image Processing` · `Real-time Video`
+### 🤖 Machine Learning & Data
 
-**Application Development**  
-`Flask` · `Streamlit` · `React` · `TypeScript` · `REST APIs`
+`Python` `Pandas` `NumPy`  
+`scikit-learn` `XGBoost` `SHAP`
 
-**Engineering**  
-`Git` · `GitHub` · `pytest` · `GitHub Actions` · `Docker` · `SQL`
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+
+`OpenCV` `MediaPipe`  
+`Image Processing` `Real-time Video`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Application Development
+
+`Flask` `Streamlit` `React`  
+`TypeScript` `REST APIs`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Engineering
+
+`Git` `GitHub` `pytest`  
+`GitHub Actions` `Docker` `SQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ⚙️ Engineering & Team Practices
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
-`Reproducible ML Evaluation` &nbsp;•&nbsp; `Automated Testing` &nbsp;•&nbsp; `CI/CD`
+### 📊 ML Evaluation
+**Reproducible workflows**
 
-`Agile / Scrum` &nbsp;•&nbsp; `Scrum Master Experience` &nbsp;•&nbsp; `Code Review`
+</td>
+<td width="33%" align="center" valign="top">
 
-`Git Collaboration` &nbsp;•&nbsp; `Team Coordination` &nbsp;•&nbsp; `Model → Application Integration`
+### 🧪 Automated Testing
+**Quality & regression checks**
 
-</div>
+</td>
+<td width="33%" align="center" valign="top">
+
+### ♾️ CI/CD
+**GitHub Actions workflows**
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🔄 Agile / Scrum
+**Sprint-based collaboration**
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 👥 Scrum Master
+**Team coordination experience**
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🔍 Code Review
+**Collaborative code quality**
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🌿 Git Collaboration
+**Branches, PRs & reviews**
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🤝 Team Coordination
+**Communication & delivery**
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🔌 ML Integration
+**Model → Application**
+
+</td>
+</tr>
+</table>
 
 ---
 
