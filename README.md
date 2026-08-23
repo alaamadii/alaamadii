@@ -1,22 +1,31 @@
+<!-- =========================
+     ALAA MADI — GITHUB PROFILE
+     github.com/alaamadii
+========================== -->
+
 <div align="center">
 
-# Hi, I'm Alaa 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=12,14,18,20&section=header&text=Hi,%20I'm%20Alaa%20👋&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Software%20Engineering%20Student%20•%20Machine%20Learning%20•%20Computer%20Vision&descAlignY=58&descSize=17"/>
 
-### Software Engineering Student | Machine Learning & Computer Vision
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=7868E6&center=true&vCenter=true&width=800&lines=Building+software+that+sees%2C+learns%2C+and+solves.;Turning+machine+learning+models+into+real+applications.;Machine+Learning+%C3%97+Computer+Vision+%C3%97+Software+Engineering." alt="Typing introduction"/>
+</a>
 
-Building ML and computer-vision systems from data and experimentation  
-to tested, usable applications.
+<br/>
+
+I build practical, intelligent applications by combining  
+**Machine Learning, Computer Vision, and Software Engineering.**
 
 <br/>
 
 <a href="https://alaamadii.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/alaa-madi-858014366/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:alaamadi005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -25,225 +34,149 @@ to tested, usable applications.
 
 ## 👩🏻‍💻 About Me
 
+> I like taking projects beyond notebooks — from data and models to tested, usable applications.
+
 - 🎓 Software Engineering student at **Fırat University**
-- 🤖 Focused on **Machine Learning, Computer Vision & AI Engineering**
-- 🧩 Building projects beyond notebooks — from **data preparation and model evaluation to applications, testing and CI**
-- 🔎 Interested in **ML/AI internships, junior opportunities and research collaborations**
+- 🤖 Focused on **Machine Learning, Computer Vision, and AI Engineering**
+- 💻 Building complete solutions from **data preparation and model evaluation to APIs, interfaces, testing, and deployment**
+- 🧪 I care about **reproducibility, automated testing, CI/CD, and maintainable engineering workflows**
+- 🤝 Experienced with **Agile/Scrum, Scrum Master responsibilities, Git collaboration, and code review**
+- 🔎 Interested in **ML/AI internships, junior opportunities, and research collaborations**
 
 ---
 
-## 🚀 Featured Machine Learning Projects
+## 🚀 Featured Work
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🚢 Freight Rate ML
+### 🚢 [Freight Rate ML](https://github.com/alaamadii/freight-rate-ml-assessment)
 
 Machine-learning assessment focused on freight-rate prediction with time-aware evaluation.
 
-**Tech**  
-`Python` `scikit-learn`  
-`XGBoost` `Pandas`
-
-**Engineering**  
-Walk-forward validation · confidence analysis · reproducible scoring · automated testing
-
-[**View Repository →**](https://github.com/alaamadii/freight-rate-ml-assessment)
+**Focus:** Walk-forward validation, confidence analysis, reproducible scoring, automated testing
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🩺 Diabetes Classification
+### 🩺 [Diabetes Classification](https://github.com/alaamadii/diabetes-second-edition)
 
 End-to-end classification pipeline using XGBoost with class-imbalance handling and explainability.
 
-**Tech**  
-`Python` `XGBoost`  
-`SHAP` `Streamlit`
-
-**Engineering**  
-Reproducible preprocessing · schema validation · model evaluation · unit tests · CI
-
-[**View Repository →**](https://github.com/alaamadii/diabetes-second-edition)
+**Focus:** XGBoost, SHAP, preprocessing, model evaluation, testing, CI
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🏠 House Price Prediction
+### 🏠 [House Price Prediction](https://github.com/alaamadii/house-price-prediction-advanced)
 
 Regression pipeline for comparing and tuning models to estimate residential property prices.
 
-**Tech**  
-`Python` `scikit-learn`  
-`Pandas` `Streamlit`
+**Focus:** Pipelines, preprocessing, GridSearchCV, model persistence, Streamlit
 
-**Engineering**  
-Pipelines · preprocessing · GridSearchCV · model persistence · automated testing
+</td>
+<td width="50%" valign="top">
 
-[**View Repository →**](https://github.com/alaamadii/house-price-prediction-advanced)
+### 👁️ [Face Attendance System](https://github.com/alaamadii/face-attendance-system)
+
+Real-time computer vision system for face enrollment, recognition, and attendance tracking.
+
+**Focus:** OpenCV, face recognition, real-time video, testing
 
 </td>
 </tr>
-</table>
-
----
-
-## 👁️ Computer Vision Projects
-
-<table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 👤 Face Attendance
-
-Real-time face-recognition attendance system with structured enrollment and attendance tracking.
-
-**Tech**  
-`Python` `OpenCV`  
-`Face Recognition`
-
-[**View Repository →**](https://github.com/alaamadii/face-attendance-system)
-
-</td>
-<td width="33%" valign="top">
-
-### ✍️ Air Writer
+### ✍️ [Air Writer](https://github.com/alaamadii/air-writer)
 
 Real-time hand tracking and gesture recognition for drawing in the air using a webcam.
 
-**Tech**  
-`MediaPipe` `OpenCV`  
-`Gesture Recognition`
-
-[**View Repository →**](https://github.com/alaamadii/air-writer)
+**Focus:** MediaPipe, OpenCV, gesture recognition, real-time interaction
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🍉 Fruit Ninja CV
+### 🍉 [Fruit Ninja CV](https://github.com/alaamadii/ninja-fruite-computervision)
 
-Gesture-controlled game using real-time hand tracking and computer vision.
+Gesture-controlled game built with real-time hand tracking and computer vision.
 
-**Tech**  
-`MediaPipe` `OpenCV`  
-`Computer Vision`
-
-[**View Repository →**](https://github.com/alaamadii/ninja-fruite-computervision)
+**Focus:** MediaPipe, OpenCV, hand tracking, interactive computer vision
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+[Explore My Repositories](https://github.com/alaamadii?tab=repositories)
+
+</div>
 
 ---
 
-## 🛠 Engineering Toolkit
+## 💻 Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🤖 Machine Learning & Data
+### Languages
 
-`Python` `Pandas` `NumPy`  
-`scikit-learn` `XGBoost` `SHAP`
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" />
 
-</td>
-<td width="50%" valign="top">
+### Machine Learning, Data & Computer Vision
 
-### 👁️ Computer Vision
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
 
-`OpenCV` `MediaPipe`  
-`Image Processing` `Real-time Video`
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EB5B2A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-6C63FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-### 🌐 Application Development
+### Application Development
 
-`Flask` `Streamlit` `React`  
-`TypeScript` `REST APIs`
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask&theme=dark" />
 
-</td>
-<td width="50%" valign="top">
+### Engineering & Deployment
 
-### ⚙️ Engineering
+<img src="https://skillicons.dev/icons?i=git,github,docker,postgres,supabase,vscode,vercel&theme=dark" />
 
-`Git` `GitHub` `pytest`  
-`GitHub Actions` `Docker` `SQL`
+<br/>
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+</div>
 
 ---
 
 ## ⚙️ Engineering & Team Practices
 
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
+<div align="center">
 
-### 📊 ML Evaluation
-**Reproducible workflows**
+<img src="https://img.shields.io/badge/Reproducible%20ML-Evaluation-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automated-Testing-0A9EDC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
-</td>
-<td width="33%" align="center" valign="top">
+<br/>
 
-### 🧪 Automated Testing
-**Quality & regression checks**
+<img src="https://img.shields.io/badge/Agile-Scrum-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scrum%20Master-Experience-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Code-Review-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-</td>
-<td width="33%" align="center" valign="top">
+<br/>
 
-### ♾️ CI/CD
-**GitHub Actions workflows**
+<img src="https://img.shields.io/badge/Git-Collaboration-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Team-Coordination-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20→%20Application-Integration-8A2BE2?style=for-the-badge"/>
 
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 🔄 Agile / Scrum
-**Sprint-based collaboration**
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 👥 Scrum Master
-**Team coordination experience**
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🔍 Code Review
-**Collaborative code quality**
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 🌿 Git Collaboration
-**Branches, PRs & reviews**
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🤝 Team Coordination
-**Communication & delivery**
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🔌 ML Integration
-**Model → Application**
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -251,19 +184,19 @@ Gesture-controlled game using real-time hand tracking and computer vision.
 
 ## 🤝 Let's Connect
 
-I'm interested in **Machine Learning, Computer Vision and AI Engineering**  
-internships / junior opportunities, as well as **research and technical collaborations**.
+I'm interested in **Machine Learning, Computer Vision, and AI Engineering** internships / junior opportunities,  
+as well as **research and technical collaborations**.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/alaa-madi-858014366/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://alaamadii.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:alaamadi005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
