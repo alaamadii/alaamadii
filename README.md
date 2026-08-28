@@ -3,7 +3,7 @@
      github.com/alaamadii
 ========================== -->
 
-<div align="center">
+<div align="center"> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=12,14,18,20&section=header&text=Hi,%20I'm%20Alaa%20👋&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Software%20Engineering%20Student%20•%20Machine%20Learning%20•%20Computer%20Vision&descAlignY=58&descSize=17"/>
 
