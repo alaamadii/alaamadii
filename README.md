@@ -18,7 +18,7 @@ I build practical, intelligent applications by combining
 
 <br/>
 
-<a href="https://alaamadii.vercel.app">
+<a href="https://alaamadi.com/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/alaa-madi-858014366/">
