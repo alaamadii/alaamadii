@@ -32,7 +32,7 @@ I build practical, intelligent applications by combining
 
 ---
 
-## 👩🏻‍💻 About Me
+##  About Me
 
 > I like taking projects beyond notebooks from data and models to tested, usable applications.
 
